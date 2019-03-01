@@ -1,5 +1,5 @@
 homeassistant:
-  name: Bargelt Home
+  name: Yorke Castle
   latitude: !secret latitude
   longitude: !secret longitude
   elevation: 273

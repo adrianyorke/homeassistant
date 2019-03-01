@@ -1,0 +1,83 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "adrianyorke"
+                },
+                "id": "ce431ea51e224b61b145bf2cdd1aedf4",
+                "user_id": "98e558d7effe47c5a1d5093860aa0517"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.10.37:8123/",
+                "client_name": null,
+                "created_at": "2019-03-01T21:11:29.994732+00:00",
+                "id": "025e0ed402584b9f95eb4533343a5635",
+                "jwt_key": "6f655bb83694a3bbb7919efd0feb7fdaeb8d1dcd235776d205b3d1f014e31887eaa8a2796b08b0ff0a6e9b13e2c89e76e91049a0ec6d075f2fccce4046f70907",
+                "last_used_at": "2019-03-01T21:11:29.995075+00:00",
+                "last_used_ip": "192.168.10.37",
+                "token": "b5dc8e3ab3f9c6afd1d3a914bc746320da74d2f00904963dc4e2d0a2d3837dec45e865c6ef2a7f65333fdf5d86217f6e71e6ac4e3bc264e9eb1f16f01e5c6d7e",
+                "token_type": "normal",
+                "user_id": "98e558d7effe47c5a1d5093860aa0517"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.10.37:8123/",
+                "client_name": null,
+                "created_at": "2019-03-01T21:12:38.585198+00:00",
+                "id": "1be34920bc8645e4b0f37e2aac8ef8f8",
+                "jwt_key": "0db80f9ac93e247958acde98eb7e5b01d6ee6fcf0e2137058c36601d2a53e8fe33f1b4288cb41c86d5b4ce64aaa68d3263dd5af07bb26058f06107ac258476cd",
+                "last_used_at": "2019-03-01T21:12:38.585500+00:00",
+                "last_used_ip": "192.168.10.44",
+                "token": "95becd60137e489ce0a28eafd72bc26cbc858b6f546807cf1c142af63a691f9cc687e980ba6831f08d19c5067df6517da34b6bc5c3d85550e515164a7c8bb9cf",
+                "token_type": "normal",
+                "user_id": "98e558d7effe47c5a1d5093860aa0517"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.10.37:8123/",
+                "client_name": null,
+                "created_at": "2019-03-01T21:17:28.344187+00:00",
+                "id": "0df8935537994bcd9b54e375cdc8a258",
+                "jwt_key": "d1bd2fa71ac712942730d1b45effaabb476795033e38b9ba06ad891d90fdfb41767d82df0e2148b714f61a365bb03de0b433e25c1fb4ce3a068cc35c171120c2",
+                "last_used_at": "2019-03-01T21:17:28.344699+00:00",
+                "last_used_ip": "192.168.10.37",
+                "token": "a3991ed613532c3a42d4062003092f7d54957f72df2abbe83153761f436bc547993fd9c53961e326db4529cc4805330bf97242eaa9bbd0969748a8e32ac070c0",
+                "token_type": "normal",
+                "user_id": "98e558d7effe47c5a1d5093860aa0517"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "98e558d7effe47c5a1d5093860aa0517",
+                "is_active": true,
+                "is_owner": true,
+                "name": "Adrian Yorke",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}

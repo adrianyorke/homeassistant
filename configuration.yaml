@@ -1,0 +1,19 @@
+homeassistant:
+  name: Bargelt Home
+  latitude: !secret latitude
+  longitude: !secret longitude
+  elevation: 273
+  unit_system: imperial
+  time_zone: America/Chicago
+
+http:
+  api_password: !secret api_password
+  login_attempts_threshold: 3
+
+frontend:
+config:
+updater:
+discovery:
+sun:
+logger:
+  default: warn

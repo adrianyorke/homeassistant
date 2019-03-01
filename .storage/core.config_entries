@@ -1,0 +1,18 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "sonos",
+                "entry_id": "3b4f21a4ff3849c3abb8a16ef35aa623",
+                "options": {},
+                "source": "discovery",
+                "title": "Sonos",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

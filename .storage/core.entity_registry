@@ -1,0 +1,35 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": "3b4f21a4ff3849c3abb8a16ef35aa623",
+                "device_id": "b7e44f1d412048f8bb45c60eb071dbc2",
+                "disabled_by": null,
+                "entity_id": "media_player.play5",
+                "name": null,
+                "platform": "sonos",
+                "unique_id": "RINCON_000E5880EF7801400"
+            },
+            {
+                "config_entry_id": "3b4f21a4ff3849c3abb8a16ef35aa623",
+                "device_id": "088c72e00c6f4557a8b06815fd36c7f9",
+                "disabled_by": null,
+                "entity_id": "media_player.play3l",
+                "name": null,
+                "platform": "sonos",
+                "unique_id": "RINCON_949F3EE0BAE601400"
+            },
+            {
+                "config_entry_id": "3b4f21a4ff3849c3abb8a16ef35aa623",
+                "device_id": "35cf395838824e37b8f0fdddefcf720e",
+                "disabled_by": null,
+                "entity_id": "media_player.play3r",
+                "name": null,
+                "platform": "sonos",
+                "unique_id": "RINCON_000E5871D27A01400"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}
